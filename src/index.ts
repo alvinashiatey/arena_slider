@@ -1,3 +1,3 @@
 import { Slide } from "./Slide";
 
-customElements.define("slide-show", Slide);
+customElements.define("arena-slide", Slide);
