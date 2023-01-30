@@ -277,4 +277,4 @@ class a extends HTMLElement {
     this._counter === 0 && s < 0 || this._counter === this._slides.length - 1 && s > 0 || (this._slideWrapper.style.transform = `translateX(calc(${-n * this._counter}px - ${s}px))`);
   }
 }
-customElements.define("arena-slide", a);
+customElements.define("arena-slider", a);
