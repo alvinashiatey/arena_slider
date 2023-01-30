@@ -2,14 +2,12 @@ this is a simple Web Component that allows you to create a simple, yet customiza
 load the script in your html file:
 
 ```html
-
 <script src="arena-slider.js"></script>
 ```
 
 add the following to your html file:
 
 ```html
-
 <arena-slider></arena-slider>
 ```
 
